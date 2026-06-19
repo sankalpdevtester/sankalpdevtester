@@ -16,7 +16,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/sankalpdevtester?label=Followers&style=for-the-badge&color=6366f1&labelColor=0d1117)](https://github.com/sankalpdevtester)
 &nbsp;
-![Stars](https://img.shields.io/badge/⭐%20Stars-98-6366f1?style=for-the-badge&labelColor=0d1117)
+![Stars](https://img.shields.io/badge/⭐%20Stars-195-6366f1?style=for-the-badge&labelColor=0d1117)
 &nbsp;
 ![LeetCode](https://img.shields.io/badge/LeetCode-255%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)
 &nbsp;
@@ -79,7 +79,7 @@ learning  : Advanced DSA · Cloud Architecture · Competitive Programming
 
 | 🎯 Solved | 🔥 Streak | ⭐ Stars | 📦 Repos |
 |:-:|:-:|:-:|:-:|
-| **255** | **0 days** | **98** | **24** |
+| **255** | **0 days** | **195** | **24** |
 
 </div>
 
