@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Full+Stack+Developer+%7C+Open+Source+25+repos+%7C+255+LeetCode+problems+solved+Writing+clean+code,+one+commit+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Full+Stack+Developer+%7C+Open+Source+26+repos+%7C+255+LeetCode+problems+solved+Writing+clean+code,+one+commit+at+a+time.)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,11 +16,11 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/sankalpdevtester?label=Followers&style=for-the-badge&color=6366f1&labelColor=0d1117)](https://github.com/sankalpdevtester)
 &nbsp;
-![Stars](https://img.shields.io/badge/⭐%20Stars-410-6366f1?style=for-the-badge&labelColor=0d1117)
+![Stars](https://img.shields.io/badge/⭐%20Stars-542-6366f1?style=for-the-badge&labelColor=0d1117)
 &nbsp;
 ![LeetCode](https://img.shields.io/badge/LeetCode-255%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)
 &nbsp;
-![Repos](https://img.shields.io/badge/Repos-25-0ea5e9?style=for-the-badge&labelColor=0d1117)
+![Repos](https://img.shields.io/badge/Repos-26-0ea5e9?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -79,7 +79,7 @@ learning  : Advanced DSA · Cloud Architecture · Competitive Programming
 
 | 🎯 Solved | 🔥 Streak | ⭐ Stars | 📦 Repos |
 |:-:|:-:|:-:|:-:|
-| **255** | **0 days** | **410** | **25** |
+| **255** | **0 days** | **542** | **26** |
 
 </div>
 
@@ -151,6 +151,6 @@ learning  : Advanced DSA · Cloud Architecture · Competitive Programming
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-<sub>⚡ Auto-updated daily · Last refresh: June 20, 2026</sub>
+<sub>⚡ Auto-updated daily · Last refresh: June 21, 2026</sub>
 
 </div>
