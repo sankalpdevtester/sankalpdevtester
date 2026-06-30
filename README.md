@@ -16,7 +16,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/sankalpdevtester?label=Followers&style=for-the-badge&color=6366f1&labelColor=0d1117)](https://github.com/sankalpdevtester)
 &nbsp;
-![Stars](https://img.shields.io/badge/⭐%20Stars-1198-6366f1?style=for-the-badge&labelColor=0d1117)
+![Stars](https://img.shields.io/badge/⭐%20Stars-1322-6366f1?style=for-the-badge&labelColor=0d1117)
 &nbsp;
 ![LeetCode](https://img.shields.io/badge/LeetCode-255%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)
 &nbsp;
@@ -79,7 +79,7 @@ learning  : Advanced DSA · Cloud Architecture · Competitive Programming
 
 | 🎯 Solved | 🔥 Streak | ⭐ Stars | 📦 Repos |
 |:-:|:-:|:-:|:-:|
-| **255** | **0 days** | **1198** | **28** |
+| **255** | **0 days** | **1322** | **28** |
 
 </div>
 
@@ -151,6 +151,6 @@ learning  : Advanced DSA · Cloud Architecture · Competitive Programming
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-<sub>⚡ Auto-updated daily · Last refresh: June 29, 2026</sub>
+<sub>⚡ Auto-updated daily · Last refresh: June 30, 2026</sub>
 
 </div>
