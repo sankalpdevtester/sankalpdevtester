@@ -49,9 +49,7 @@ learning  : Cloud Architecture · Advanced System Design · Modern Web Technolog
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpdevtester&theme=radical&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&sideNums=ffffff&currStreakNum=f59e0b&sideLabels=6366f1&dates=888888&stroke=6366f1" alt="streak" width="49%"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=sankalpdevtester&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff" alt="wakatime"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpdevtester&theme=radical&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&sideNums=ffffff&currStreakNum=f59e0b&sideLabels=6366f1&dates=888888&stroke=6366f1" alt="streak" width="96%"/>
 
 </div>
 
@@ -102,6 +100,16 @@ learning  : Cloud Architecture · Advanced System Design · Modern Web Technolog
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
 
 **Frontend**
 
@@ -109,21 +117,33 @@ learning  : Cloud Architecture · Advanced System Design · Modern Web Technolog
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 **Backend & DB**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-**DevOps**
+**DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -133,7 +153,7 @@ learning  : Cloud Architecture · Advanced System Design · Modern Web Technolog
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=sankalpdevtester&theme=radical&no-frame=true&no-bg=false&margin-w=4&margin-h=4&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+<img src="https://github-profile-trophy.vercel.app/?username=sankalpdevtester&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="trophy" />
 
 </div>
 
@@ -173,9 +193,7 @@ learning  : Cloud Architecture · Advanced System Design · Modern Web Technolog
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sankalpdevtester&label=Profile%20Views&color=6366f1&style=for-the-badge)
-
-<img src="https://streak-stats.demolab.com/?user=sankalpdevtester&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1" alt="streak"/>
+<img src="https://komarev.com/ghpvc/?username=sankalpdevtester&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="profile views" />
 
 </div>
 
