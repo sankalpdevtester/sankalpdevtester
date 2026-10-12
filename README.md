@@ -115,7 +115,7 @@ learning  : Cloud Architecture · Advanced System Design · Modern Web Technolog
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sankalpdevtester&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4)](https://github.com/sankalpdevtester)
+![trophy](https://github-profile-trophy.vercel.app/?username=sankalpdevtester&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&margin-h=4&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
 
 </div>
 
