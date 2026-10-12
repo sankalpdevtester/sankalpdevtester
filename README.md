@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Full+Stack+Developer+%7C+Open+Source+39+repos+%7C+255+LeetCode+problems+solved+Writing+clean+code,+one+commit+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Full+Stack+Developer+%7C+Open+Source+Enthusiast;Building+with+Python+%C2%B7+TypeScript+%C2%B7+Go+%C2%B7+Rust;Writing+clean+code,+one+commit+at+a+time.)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,12 +15,6 @@
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/sankalpdevtester?label=Followers&style=for-the-badge&color=6366f1&labelColor=0d1117)](https://github.com/sankalpdevtester)
-&nbsp;
-![Stars](https://img.shields.io/badge/⭐%20Stars-11712-6366f1?style=for-the-badge&labelColor=0d1117)
-&nbsp;
-![LeetCode](https://img.shields.io/badge/LeetCode-255%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)
-&nbsp;
-![Repos](https://img.shields.io/badge/Repos-39-0ea5e9?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -35,10 +29,10 @@ location  : India
 languages : Python · TypeScript · JavaScript · Go · Rust · Java
 focus     :
   - Production-ready web applications
-  - Algorithmic problem solving (DSA)
+  - Data structures & algorithms
   - Open source contributions
   - System design & distributed systems
-learning  : Advanced DSA · Cloud Architecture · Competitive Programming
+learning  : Cloud Architecture · Advanced System Design · Modern Web Technologies
 ```
 
 ---
@@ -72,14 +66,6 @@ learning  : Advanced DSA · Cloud Architecture · Competitive Programming
 <div align="center">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/q9hZI5XkeT?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=16&width=500)](https://leetcode.com/u/q9hZI5XkeT/)
-
-</div>
-
-<div align="center">
-
-| 🎯 Solved | 🔥 Streak | ⭐ Stars | 📦 Repos |
-|:-:|:-:|:-:|:-:|
-| **255** | **0 days** | **11712** | **39** |
 
 </div>
 
@@ -129,7 +115,7 @@ learning  : Advanced DSA · Cloud Architecture · Competitive Programming
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sankalpdevtester&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/sankalpdevtester)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sankalpdevtester&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4)](https://github.com/sankalpdevtester)
 
 </div>
 
@@ -151,6 +137,6 @@ learning  : Advanced DSA · Cloud Architecture · Competitive Programming
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-<sub>⚡ Auto-updated daily · Last refresh: October 11, 2026</sub>
+<sub>⚡ Stats powered by GitHub Readme Stats</sub>
 
 </div>
