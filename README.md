@@ -41,21 +41,39 @@ learning  : Cloud Architecture · Advanced System Design · Modern Web Technolog
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sankalpdevtester&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sankalpdevtester&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=f59e0b&text_color=ffffff&rank_icon=github&ring_color=6366f1"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpdevtester&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpdevtester&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff&icon_color=f59e0b"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpdevtester&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&sideNums=ffffff&currStreakNum=f59e0b&sideLabels=6366f1&dates=888888" alt="streak" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpdevtester&theme=radical&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&sideNums=ffffff&currStreakNum=f59e0b&sideLabels=6366f1&dates=888888&stroke=6366f1" alt="streak" width="49%"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=sankalpdevtester&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff" alt="wakatime"/>
 
 </div>
 
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sankalpdevtester&bg_color=0d1117&color=6366f1&line=6366f1&point=f59e0b&area=true&hide_border=true&area_color=6366f120)](https://github.com/sankalpdevtester)
+
+</div>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/sankalpdevtester/sankalpdevtester/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<div align="center">
+
+### 📈 3D Contribution Graph
+
+![3D Contribution](https://github-profile-3d-contrib.vercel.app/api?username=sankalpdevtester&theme=radical&animation=true&area=true&hide_title=false&title_color=6366f1&bg_color=0d1117&area_color=6366f1&grid_color=444444&line_color=6366f1)
 
 </div>
 
@@ -115,7 +133,7 @@ learning  : Cloud Architecture · Advanced System Design · Modern Web Technolog
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=sankalpdevtester&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&margin-h=4&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
+![trophy](https://github-profile-trophy.vercel.app/?username=sankalpdevtester&theme=radical&no-frame=true&no-bg=false&margin-w=4&margin-h=4&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 </div>
 
@@ -125,9 +143,39 @@ learning  : Cloud Architecture · Advanced System Design · Modern Web Technolog
 
 <div align="center">
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=sankalpdevtester&repo=devops-pulse&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=f59e0b&text_color=ffffff)](https://github.com/sankalpdevtester/devops-pulse)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=sankalpdevtester&repo=aegis-codefusion-2k26&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=f59e0b&text_color=ffffff)](https://github.com/sankalpdevtester/aegis-codefusion-2k26)
 &nbsp;
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=sankalpdevtester&repo=code-vault-pro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=f59e0b&text_color=ffffff)](https://github.com/sankalpdevtester/code-vault-pro)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=sankalpdevtester&repo=code-vault-pro&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=f59e0b&text_color=ffffff)](https://github.com/sankalpdevtester/code-vault-pro)
+
+</div>
+
+<div align="center">
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=sankalpdevtester&repo=devops-pulse&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=f59e0b&text_color=ffffff)](https://github.com/sankalpdevtester/devops-pulse)
+&nbsp;
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=sankalpdevtester&repo=forge-chain&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=f59e0b&text_color=ffffff)](https://github.com/sankalpdevtester/forge-chain)
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
+
+</div>
+
+---
+
+## 🎯 Profile Views
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=sankalpdevtester&label=Profile%20Views&color=6366f1&style=for-the-badge)
+
+<img src="https://streak-stats.demolab.com/?user=sankalpdevtester&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1" alt="streak"/>
 
 </div>
 
@@ -137,6 +185,6 @@ learning  : Cloud Architecture · Advanced System Design · Modern Web Technolog
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-<sub>⚡ Stats powered by GitHub Readme Stats</sub>
+<sub>⚡ Thanks for visiting! Let's build something amazing together 🚀</sub>
 
 </div>
