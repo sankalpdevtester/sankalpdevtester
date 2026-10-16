@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 72" width="900" height="72" role="img" aria-label="CONNECT">
+<title>CONNECT</title>
+<defs>
+<linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#0b0e1a"/><stop offset="1" stop-color="#1c1038"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8b9dff"/><stop offset="1" stop-color="#ff2e88"/></linearGradient>
+<linearGradient id="swp" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+<clipPath id="cp"><rect width="900" height="72" rx="11"/></clipPath>
+</defs>
+<style>
+.t{font-family:Impact,'Arial Black','Haettenschweiler','Arial Narrow Bold',sans-serif;font-size:27px;letter-spacing:3px;fill:#fff}
+.g{font-family:'Courier New',ui-monospace,SFMono-Regular,Consolas,monospace;font-weight:700;font-size:11px;letter-spacing:3px;fill:#8b9dff}
+.n{font-family:'Courier New',ui-monospace,SFMono-Regular,Consolas,monospace;font-size:11px;letter-spacing:2px;fill:#5b6498}
+.bar{animation:br 2.4s ease-in-out infinite}@keyframes br{0%,100%{opacity:1}50%{opacity:.55}}
+.sw{animation:sw 4.5s linear infinite}@keyframes sw{from{transform:translateX(-220px)}to{transform:translateX(1120px)}}
+.dot{animation:dd 1.4s steps(1) infinite}@keyframes dd{0%{opacity:1}50%{opacity:.15}}
+.i-d{transform-box:fill-box;transform-origin:center;animation:dt 1.2s ease-in-out infinite}@keyframes dt{0%,60%,100%{transform:translateY(0);opacity:.5}30%{transform:translateY(-4px);opacity:1}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#cp)">
+<rect width="900" height="72" fill="url(#bg)"/>
+<rect class="bar" width="7" height="72" fill="url(#ac)"/>
+<rect x="22" y="10" width="52" height="52" rx="12" fill="#ffffff" fill-opacity=".04" stroke="#2f3566"/>
+<g transform="translate(24,12)"><path d="M9 8h30a5 5 0 015 5v16a5 5 0 01-5 5H24l-9 8v-8H9a5 5 0 01-5-5V13a5 5 0 015-5z" fill="rgba(88,101,242,.22)" stroke="#8b9dff" stroke-width="2.4" stroke-linejoin="round"/>
+<circle class="i-d" cx="15" cy="21" r="2.6" fill="#fff"/><circle class="i-d" style="animation-delay:.2s" cx="24" cy="21" r="2.6" fill="#fff"/><circle class="i-d" style="animation-delay:.4s" cx="33" cy="21" r="2.6" fill="#fff"/></g>
+<text class="t" x="94" y="38">CONNECT</text>
+<text class="g" x="95" y="58">// JOIN THE LOBBY</text>
+<text class="n" x="872" y="30" text-anchor="end">SEC 09</text>
+<g fill="#8b9dff"><rect class="dot" x="832" y="40" width="10" height="4" rx="1"/><rect class="dot" style="animation-delay:-.45s" x="846" y="40" width="10" height="4" rx="1"/><rect class="dot" style="animation-delay:-.9s" x="860" y="40" width="10" height="4" rx="1"/></g>
+<rect x="0" y="70" width="900" height="2" fill="#2a2f55"/>
+<rect class="sw" x="0" y="69" width="220" height="3" fill="url(#swp)"/>
+</g>
+<rect x=".5" y=".5" width="899" height="71" rx="11" fill="none" stroke="#2a2f55"/>
+</svg>

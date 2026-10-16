@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 240" width="440" height="240" role="img" aria-label="PLAYER STATS">
+<title>PLAYER STATS</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0e1a"/><stop offset="1" stop-color="#1c1038"/></linearGradient>
+<linearGradient id="swp" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+<linearGradient id="barg" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#8b5cf6"/><stop offset=".55" stop-color="#ff2e88"/><stop offset="1" stop-color="#ffc83d"/></linearGradient>
+<clipPath id="cp"><rect width="440" height="240" rx="14"/></clipPath>
+</defs>
+<style>
+.lbl{font-family:'Courier New',ui-monospace,SFMono-Regular,Consolas,monospace;font-size:12px;letter-spacing:2px;fill:#9aa3d6}
+.ttl{font-family:'Courier New',ui-monospace,SFMono-Regular,Consolas,monospace;font-weight:700;font-size:12px;letter-spacing:3px;fill:#ff7a1a}
+.val{font-family:Impact,'Arial Black','Haettenschweiler','Arial Narrow Bold',sans-serif;font-size:18px;letter-spacing:1px;fill:#fff}
+.big{font-family:Impact,'Arial Black','Haettenschweiler','Arial Narrow Bold',sans-serif;font-size:30px;letter-spacing:1px;fill:#ffc83d}
+.unit{font-family:'Courier New',ui-monospace,SFMono-Regular,Consolas,monospace;font-size:10px;letter-spacing:2px;fill:#8f98c9}
+.sub{font-family:'Courier New',ui-monospace,SFMono-Regular,Consolas,monospace;font-size:10px;letter-spacing:2px;fill:#5b6498}
+.nm{font-family:Impact,'Arial Black','Haettenschweiler','Arial Narrow Bold',sans-serif;font-size:23px;letter-spacing:1.5px;fill:#fff}
+.ds{font-family:'Segoe UI',system-ui,-apple-system,Roboto,Arial,sans-serif;font-size:13px;fill:#aab3e6}
+.in{animation:in .6s ease-out both}@keyframes in{from{opacity:0;transform:translateX(-12px)}to{opacity:1;transform:none}}
+.dot{animation:dd 1.4s steps(1) infinite}@keyframes dd{0%{opacity:1}50%{opacity:.15}}
+.sw{animation:sw 5s linear infinite}@keyframes sw{from{transform:translateX(-240px)}to{transform:translateX(1000px)}}
+.bar{transform-box:fill-box;transform-origin:left center;animation:gx 1s ease-out both}@keyframes gx{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+.vb{transform-box:fill-box;transform-origin:center bottom;animation:gy 1s ease-out both}@keyframes gy{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+.col{animation:cl .7s ease-out both}@keyframes cl{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+.fire{transform-box:fill-box;transform-origin:center bottom;animation:fr .5s ease-in-out infinite alternate}@keyframes fr{from{transform:scale(.9,.8)}to{transform:scale(1.05,1.15)}}
+.ld{animation:ld 2.2s ease-in-out infinite}@keyframes ld{0%{transform:translateX(-120px)}100%{transform:translateX(420px)}}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#cp)">
+<rect width="440" height="240" fill="url(#bg)"/>
+<circle class="dot" cx="26" cy="27" r="4" fill="#ff7a1a"/><text class="ttl" x="40" y="31">PLAYER STATS</text><text class="sub" x="418" y="31" text-anchor="end">SYNCING</text><path d="M22 44H418" stroke="#2a2f55"/><text class="lbl" x="220" y="124" text-anchor="middle">LOADING PLAYER DATA...</text><rect x="100" y="140" width="240" height="4" rx="2" fill="#1a1f3d"/><g clip-path="url(#cp)"><rect class="ld" x="100" y="140" width="80" height="4" rx="2" fill="#22d3ee"/></g>
+<rect class="sw" x="0" y="237" width="240" height="3" fill="url(#swp)"/>
+</g>
+<rect x=".5" y=".5" width="439" height="239" rx="14" fill="none" stroke="#2a2f55"/>
+</svg>

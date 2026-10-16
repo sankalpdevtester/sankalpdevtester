@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 72" width="900" height="72" role="img" aria-label="FEATURED PROJECTS">
+<title>FEATURED PROJECTS</title>
+<defs>
+<linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#0b0e1a"/><stop offset="1" stop-color="#1c1038"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff2e88"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+<linearGradient id="swp" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+<clipPath id="cp"><rect width="900" height="72" rx="11"/></clipPath>
+</defs>
+<style>
+.t{font-family:Impact,'Arial Black','Haettenschweiler','Arial Narrow Bold',sans-serif;font-size:27px;letter-spacing:3px;fill:#fff}
+.g{font-family:'Courier New',ui-monospace,SFMono-Regular,Consolas,monospace;font-weight:700;font-size:11px;letter-spacing:3px;fill:#ff2e88}
+.n{font-family:'Courier New',ui-monospace,SFMono-Regular,Consolas,monospace;font-size:11px;letter-spacing:2px;fill:#5b6498}
+.bar{animation:br 2.4s ease-in-out infinite}@keyframes br{0%,100%{opacity:1}50%{opacity:.55}}
+.sw{animation:sw 4.5s linear infinite}@keyframes sw{from{transform:translateX(-220px)}to{transform:translateX(1120px)}}
+.dot{animation:dd 1.4s steps(1) infinite}@keyframes dd{0%{opacity:1}50%{opacity:.15}}
+.i-bob{animation:bo 1.8s ease-in-out infinite}@keyframes bo{0%,100%{transform:translateY(1px) rotate(-1.5deg)}50%{transform:translateY(-2.5px) rotate(1.5deg)}}.i-fire{transform-box:fill-box;transform-origin:center top;animation:fi .22s ease-in-out infinite alternate}@keyframes fi{from{transform:scaleY(.65)}to{transform:scaleY(1.25)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#cp)">
+<rect width="900" height="72" fill="url(#bg)"/>
+<rect class="bar" width="7" height="72" fill="url(#ac)"/>
+<rect x="22" y="10" width="52" height="52" rx="12" fill="#ffffff" fill-opacity=".04" stroke="#2f3566"/>
+<g transform="translate(24,12)"><g class="i-bob"><path d="M24 4c7 7 9.5 17 7.5 30h-15C14.500 21 17 11 24 4z" fill="rgba(255,255,255,.1)" stroke="#fff" stroke-width="2.2" stroke-linejoin="round"/>
+<circle cx="24" cy="19" r="3.6" fill="#22d3ee" stroke="#fff" stroke-width="1.6"/>
+<path d="M16.500 27L9 38l7.500-4zM31.500 27L39 38l-7.500-4z" fill="#ff2e88" stroke="#ff2e88" stroke-width="1.6" stroke-linejoin="round"/>
+<path class="i-fire" d="M19.500 36Q24 50 28.500 36z" fill="#ffc83d" stroke="#ff7a1a" stroke-width="1.6" stroke-linejoin="round"/></g></g>
+<text class="t" x="94" y="38">FEATURED PROJECTS</text>
+<text class="g" x="95" y="58">// MISSIONS</text>
+<text class="n" x="872" y="30" text-anchor="end">SEC 04</text>
+<g fill="#ff2e88"><rect class="dot" x="832" y="40" width="10" height="4" rx="1"/><rect class="dot" style="animation-delay:-.45s" x="846" y="40" width="10" height="4" rx="1"/><rect class="dot" style="animation-delay:-.9s" x="860" y="40" width="10" height="4" rx="1"/></g>
+<rect x="0" y="70" width="900" height="2" fill="#2a2f55"/>
+<rect class="sw" x="0" y="69" width="220" height="3" fill="url(#swp)"/>
+</g>
+<rect x=".5" y=".5" width="899" height="71" rx="11" fill="none" stroke="#2a2f55"/>
+</svg>

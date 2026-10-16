@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 72" width="900" height="72" role="img" aria-label="DEV QUOTE">
+<title>DEV QUOTE</title>
+<defs>
+<linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#0b0e1a"/><stop offset="1" stop-color="#1c1038"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c4b5fd"/><stop offset="1" stop-color="#ff2e88"/></linearGradient>
+<linearGradient id="swp" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+<clipPath id="cp"><rect width="900" height="72" rx="11"/></clipPath>
+</defs>
+<style>
+.t{font-family:Impact,'Arial Black','Haettenschweiler','Arial Narrow Bold',sans-serif;font-size:27px;letter-spacing:3px;fill:#fff}
+.g{font-family:'Courier New',ui-monospace,SFMono-Regular,Consolas,monospace;font-weight:700;font-size:11px;letter-spacing:3px;fill:#c4b5fd}
+.n{font-family:'Courier New',ui-monospace,SFMono-Regular,Consolas,monospace;font-size:11px;letter-spacing:2px;fill:#5b6498}
+.bar{animation:br 2.4s ease-in-out infinite}@keyframes br{0%,100%{opacity:1}50%{opacity:.55}}
+.sw{animation:sw 4.5s linear infinite}@keyframes sw{from{transform:translateX(-220px)}to{transform:translateX(1120px)}}
+.dot{animation:dd 1.4s steps(1) infinite}@keyframes dd{0%{opacity:1}50%{opacity:.15}}
+.i-g{transform-box:fill-box;transform-origin:center;animation:gm 1.6s ease-in-out infinite}@keyframes gm{0%,100%{transform:scale(.3) rotate(0);opacity:.3}50%{transform:scale(1) rotate(45deg);opacity:1}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#cp)">
+<rect width="900" height="72" fill="url(#bg)"/>
+<rect class="bar" width="7" height="72" fill="url(#ac)"/>
+<rect x="22" y="10" width="52" height="52" rx="12" fill="#ffffff" fill-opacity=".04" stroke="#2f3566"/>
+<g transform="translate(24,12)"><path d="M13 7h22l9 12-20 23L4 19z" fill="rgba(139,92,246,.25)" stroke="#c4b5fd" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M4 19h40M17 7l-5 12 12 23M31 7l5 12-12 23" fill="none" stroke="#c4b5fd" stroke-width="1.6" stroke-linejoin="round"/>
+<path class="i-g" d="M38 4l1.500 4L43.500 9.500 39.500 11 38 15l-1.500-4L32.500 9.500 36.500 8z" fill="#fff"/></g>
+<text class="t" x="94" y="38">DEV QUOTE</text>
+<text class="g" x="95" y="58">// DAILY LOOT DROP</text>
+<text class="n" x="872" y="30" text-anchor="end">SEC 10</text>
+<g fill="#c4b5fd"><rect class="dot" x="832" y="40" width="10" height="4" rx="1"/><rect class="dot" style="animation-delay:-.45s" x="846" y="40" width="10" height="4" rx="1"/><rect class="dot" style="animation-delay:-.9s" x="860" y="40" width="10" height="4" rx="1"/></g>
+<rect x="0" y="70" width="900" height="2" fill="#2a2f55"/>
+<rect class="sw" x="0" y="69" width="220" height="3" fill="url(#swp)"/>
+</g>
+<rect x=".5" y=".5" width="899" height="71" rx="11" fill="none" stroke="#2a2f55"/>
+</svg>
