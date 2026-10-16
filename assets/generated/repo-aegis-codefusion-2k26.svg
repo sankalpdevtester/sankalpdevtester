@@ -28,7 +28,7 @@
 </style>
 <g clip-path="url(#cp)">
 <rect width="436" height="152" fill="url(#bg)"/>
-<text class="ttl" x="22" y="28">MISSION 03</text><text class="sub" x="414" y="28" text-anchor="end">OPEN REPO</text><text class="nm" x="22" y="58">aegis-codefusion-2k26</text><text class="ds" x="22" y="80">Syncing mission briefing...</text><polygon points="28.0,119.0 29.9,123.5 34.7,123.8 31.0,127.0 32.1,131.7 28.0,129.2 23.9,131.7 25.0,127.0 21.3,123.8 26.1,123.5" fill="#ffc83d"/><text class="lbl" x="40" y="130">0</text><g fill="none" stroke="#9aa3d6" stroke-width="1.6"><circle cx="74" cy="121" r="2"/><circle cx="82" cy="121" r="2"/><circle cx="78" cy="132" r="2"/><path d="M74 123V126Q74 127 78 127Q82 127 82 123M78 127V130"/></g><text class="lbl" x="88" y="130">0</text>
+<text class="ttl" x="22" y="28">MISSION 03</text><text class="sub" x="414" y="28" text-anchor="end">OPEN REPO</text><text class="nm" x="22" y="58">aegis-codefusion-2k26</text><text class="ds" x="22" y="80">importing project from other account</text><circle cx="27" cy="126" r="5" fill="#3178c6"/><text class="lbl" x="38" y="130" style="fill:#e8ecff">TypeScript</text><polygon points="142.0,119.0 143.9,123.5 148.7,123.8 145.0,127.0 146.1,131.7 142.0,129.2 137.9,131.7 139.0,127.0 135.3,123.8 140.1,123.5" fill="#ffc83d"/><text class="lbl" x="154" y="130">4</text><g fill="none" stroke="#9aa3d6" stroke-width="1.6"><circle cx="188" cy="121" r="2"/><circle cx="196" cy="121" r="2"/><circle cx="192" cy="132" r="2"/><path d="M188 123V126Q188 127 192 127Q196 127 196 123M192 127V130"/></g><text class="lbl" x="202" y="130">0</text>
 <rect class="sw" x="0" y="149" width="240" height="3" fill="url(#swp)"/>
 </g>
 <rect x=".5" y=".5" width="435" height="151" rx="14" fill="none" stroke="#2a2f55"/>
