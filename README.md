@@ -15,14 +15,13 @@
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/sankalpdevtester?label=Followers&style=for-the-badge&color=6366f1&labelColor=0d1117)](https://github.com/sankalpdevtester)
+![Profile Views](https://komarev.com/ghpvc/?username=sankalpdevtester&label=Views&color=6366f1&style=for-the-badge)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
+## 💻 About Me
 
 ```yaml
 name      : Sankalp Gupta
@@ -39,14 +38,11 @@ learning  : Cloud Architecture · Advanced System Design · Modern Web Technolog
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sankalpdevtester&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=f59e0b&text_color=ffffff&rank_icon=github&ring_color=6366f1"/>
-&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpdevtester&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff&icon_color=f59e0b"/>
 
 </div>
@@ -59,9 +55,7 @@ learning  : Cloud Architecture · Advanced System Design · Modern Web Technolog
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -71,35 +65,23 @@ learning  : Cloud Architecture · Advanced System Design · Modern Web Technolog
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sankalpdevtester&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff&langs_count=6&hide=Other" width="49%" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sankalpdevtester&theme=radical&utcOffset=5.5" width="49%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sankalpdevtester/sankalpdevtester/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+![Snake animation](https://raw.githubusercontent.com/sankalpdevtester/sankalpdevtester/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-15d24ffe-3a7d-48f8-ad96-f4f90e5c4e1f.png" width="30" /> LeetCode Progress
+## 🧩 LeetCode Progress
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/q9hZI5XkeT?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=16&width=600&hide_rank=true&hide=ranking" />
+![LeetCode Stats](https://leetcard.jacoblin.cool/q9hZI5XkeT?theme=dark&font=Baloo&ext=contest&border=0&radius=20)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94d70b0e.png" width="30" /> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -134,7 +116,7 @@ learning  : Cloud Architecture · Advanced System Design · Modern Web Technolog
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
-**Backend & DB**
+**Backend & Database**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -161,26 +143,21 @@ learning  : Cloud Architecture · Advanced System Design · Modern Web Technolog
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sankalpdevtester&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/sankalpdevtester)
+![trophy](https://github-profile-trophy.vercel.app/?username=sankalpdevtester&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122011-84e2e7e0-0a6a-4f87-9909-70f58c8fbd6e.png" width="30" /> Featured Projects
+## 📌 Featured Projects
 
 <div align="center">
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=sankalpdevtester&repo=aegis-codefusion-2k26&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=f59e0b&text_color=ffffff)](https://github.com/sankalpdevtester/aegis-codefusion-2k26)
-&nbsp;
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=sankalpdevtester&repo=code-vault-pro&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=f59e0b&text_color=ffffff)](https://github.com/sankalpdevtester/code-vault-pro)
 
 </div>
@@ -188,32 +165,17 @@ learning  : Cloud Architecture · Advanced System Design · Modern Web Technolog
 <div align="center">
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=sankalpdevtester&repo=devops-pulse&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=f59e0b&text_color=ffffff)](https://github.com/sankalpdevtester/devops-pulse)
-&nbsp;
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=sankalpdevtester&repo=forge-chain&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=f59e0b&text_color=ffffff)](https://github.com/sankalpdevtester/forge-chain)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122020-c7170055-d673-445c-aaeb-870a02f9281d.png" width="30" /> Random Dev Quote
+## 💭 Random Dev Quote
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" /> Profile Views
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=sankalpdevtester&label=Profile%20Views&color=6366f1&style=for-the-badge)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -223,8 +185,6 @@ learning  : Cloud Architecture · Advanced System Design · Modern Web Technolog
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/216649426-c7f5f856-5af0-4825-a768-278d6a35b28a.gif" width="80" />
-
-<sub>⚡ Thanks for visiting! Let's build something amazing together 🚀</sub>
+**⚡ Thanks for visiting! Let's build something amazing together 🚀**
 
 </div>
