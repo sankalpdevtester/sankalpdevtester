@@ -27,7 +27,7 @@
 
 <a name="about"></a>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="34" height="34" align="center" alt=""/> ABOUT ME
+## <img src="assets/icons/about.webp" width="40" height="40" align="center" alt=""/> ABOUT ME
 
 I build production-ready web applications, and I love digging into what makes them fast, reliable, and scalable: data structures, system design, and distributed systems. Open source is a big part of my focus too.
 
@@ -51,7 +51,7 @@ const sankalp = {
 
 <a name="quests"></a>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="34" height="34" align="center" alt=""/> CURRENT QUESTS
+## <img src="assets/icons/quests.webp" width="40" height="40" align="center" alt=""/> CURRENT QUESTS
 
 | Quest | Objective |
 | :--- | :--- |
@@ -65,7 +65,7 @@ const sankalp = {
 
 <a name="stack"></a>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.gif" width="34" height="34" align="center" alt=""/> LOADOUT · TECH STACK
+## <img src="assets/icons/loadout.webp" width="40" height="40" align="center" alt=""/> LOADOUT · TECH STACK
 
 **Primary weapons** · core languages<br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -123,7 +123,7 @@ const sankalp = {
 
 <a name="projects"></a>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="34" height="34" align="center" alt=""/> MISSIONS · FEATURED PROJECTS
+## <img src="assets/icons/missions.webp" width="40" height="40" align="center" alt=""/> MISSIONS · FEATURED PROJECTS
 
 > **[aether-db](https://github.com/sankalpdevtester/aether-db)** is my deep-dive into distributed systems: a key-value database built from scratch in Go with Raft consensus, write-ahead logging, and horizontal sharding, designed for millions of operations per second.
 
@@ -144,7 +144,7 @@ const sankalp = {
 
 <a name="stats"></a>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="34" height="34" align="center" alt=""/> SCOREBOARD · GITHUB STATS
+## <img src="assets/icons/scoreboard.webp" width="40" height="40" align="center" alt=""/> SCOREBOARD · GITHUB STATS
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=sankalpdevtester&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=PLAYER%20STATS&bg_color=0A0A0A&title_color=F4C20D&text_color=FFFFFF&icon_color=F4C20D&ring_color=F4C20D&border_color=F4C20D&border_radius=4" alt="GitHub stats"/>
@@ -155,7 +155,7 @@ const sankalp = {
   <img src="https://streak-stats.demolab.com/?user=sankalpdevtester&theme=dark&background=0A0A0A&ring=F4C20D&fire=F4C20D&currStreakNum=FFFFFF&currStreakLabel=F4C20D&sideNums=FFFFFF&sideLabels=F4C20D&dates=9A9A9A&stroke=F4C20D&border=F4C20D&border_radius=4" alt="GitHub streak"/>
 </p>
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="30" height="30" align="center" alt=""/> **ACTIVITY LOG** · contribution snake
+<img src="assets/icons/activity.webp" width="34" height="34" align="center" alt=""/> **ACTIVITY LOG** · contribution snake
 
 <p align="center">
   <picture>
@@ -169,7 +169,7 @@ const sankalp = {
 
 <a name="achievements"></a>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="34" height="34" align="center" alt=""/> ACHIEVEMENTS UNLOCKED
+## <img src="assets/icons/achievements.webp" width="40" height="40" align="center" alt=""/> ACHIEVEMENTS UNLOCKED
 
 | Achievement | How it was earned |
 | :--- | :--- |
@@ -180,7 +180,7 @@ const sankalp = {
 
 <a name="training"></a>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="34" height="34" align="center" alt=""/> TRAINING GROUND · PROBLEM SOLVING
+## <img src="assets/icons/training.webp" width="40" height="40" align="center" alt=""/> TRAINING GROUND · PROBLEM SOLVING
 
 Data structures & algorithms are a core focus for me. This is my LeetCode activity.
 
@@ -192,7 +192,7 @@ Data structures & algorithms are a core focus for me. This is my LeetCode activi
 
 <a name="connect"></a>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.gif" width="34" height="34" align="center" alt=""/> JOIN THE LOBBY · CONNECT
+## <img src="assets/icons/connect.webp" width="40" height="40" align="center" alt=""/> JOIN THE LOBBY · CONNECT
 
 <p align="center">
   <a href="https://github.com/sankalpdevtester"><img src="https://img.shields.io/badge/GitHub-sankalpdevtester-F4C20D?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="GitHub"/></a>
@@ -204,18 +204,10 @@ Data structures & algorithms are a core focus for me. This is my LeetCode activi
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" width="34" height="34" align="center" alt=""/> DAILY LOOT DROP
+## <img src="assets/icons/loot.webp" width="40" height="40" align="center" alt=""/> DAILY LOOT DROP
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote"/>
 </p>
 
-<div align="center">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=24&duration=3000&pause=1200&color=F4C20D&center=true&vCenter=true&width=700&height=56&lines=MISSION+PASSED;Thanks+for+visiting%21;Let%27s+build+something+amazing+together." alt="Thanks for visiting! Let's build something amazing together"/></a>
-
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" width="40" height="40" alt=""/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1A2B,45:C8553D,100:F4A259&height=110&section=footer" alt="" width="100%"/>
-
-</div>
+<img src="assets/footer.webp" alt="Mission passed. Thanks for visiting! Let's build something amazing together" width="100%"/>
