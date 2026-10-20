@@ -1,156 +1,213 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sankalp%20Gupta&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DSA%20%7C%20Open%20Source&descAlignY=58&descSize=18" width="100%"/>
+<img src="assets/header.webp" alt="Sankalp Gupta | Full Stack Developer | DSA | Open Source" width="100%"/>
 
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=22&duration=3200&pause=900&color=F4C20D&center=true&vCenter=true&width=760&height=56&lines=Full+Stack+Developer+%7C+Open+Source+Enthusiast;Building+with+Python+%C2%B7+TypeScript+%C2%B7+Go+%C2%B7+Rust;Writing+clean+code%2C+one+commit+at+a+time." alt="Full Stack Developer | Open Source Enthusiast"/></a>
 
-<div align="center">
+<p>
+  <a href="https://github.com/sankalpdevtester"><img src="https://img.shields.io/badge/Follow-%40sankalpdevtester-F4C20D?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="Follow on GitHub"/></a>
+  <img src="https://img.shields.io/badge/Location-India-F4C20D?style=for-the-badge&labelColor=0A0A0A" alt="Location: India"/>
+  <a href="https://discord.com/users/1066378889061998603"><img src="https://img.shields.io/badge/Discord-assassinclub-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0A0A0A" alt="Discord: assassinclub"/></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Full+Stack+Developer+%7C+Open+Source+42+repos+%7C+255+LeetCode+problems+solved+Writing+clean+code,+one+commit+at+a+time.)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/sankalpdevtester?label=Followers&style=for-the-badge&color=6366f1&labelColor=0d1117)](https://github.com/sankalpdevtester)
-&nbsp;
-![Stars](https://img.shields.io/badge/⭐%20Stars-12806-6366f1?style=for-the-badge&labelColor=0d1117)
-&nbsp;
-![LeetCode](https://img.shields.io/badge/LeetCode-255%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)
-&nbsp;
-![Repos](https://img.shields.io/badge/Repos-42-0ea5e9?style=for-the-badge&labelColor=0d1117)
+<p>
+  <a href="#about"><b>ABOUT</b></a> &nbsp;·&nbsp;
+  <a href="#quests"><b>QUESTS</b></a> &nbsp;·&nbsp;
+  <a href="#stack"><b>LOADOUT</b></a> &nbsp;·&nbsp;
+  <a href="#projects"><b>MISSIONS</b></a> &nbsp;·&nbsp;
+  <a href="#stats"><b>SCOREBOARD</b></a> &nbsp;·&nbsp;
+  <a href="#achievements"><b>ACHIEVEMENTS</b></a> &nbsp;·&nbsp;
+  <a href="#training"><b>TRAINING</b></a> &nbsp;·&nbsp;
+  <a href="#connect"><b>LOBBY</b></a>
+</p>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<a name="about"></a>
 
-```yaml
-name      : Sankalp Gupta
-role      : Full Stack Developer
-location  : India
-languages : Python · TypeScript · JavaScript · Go · Rust · Java
-focus     :
-  - Production-ready web applications
-  - Algorithmic problem solving (DSA)
-  - Open source contributions
-  - System design & distributed systems
-learning  : Advanced DSA · Cloud Architecture · Competitive Programming
+## <img src="assets/icons/about.webp" width="40" height="40" align="center" alt=""/> ABOUT ME
+
+I build production-ready web applications, and I love digging into what makes them fast, reliable, and scalable: data structures, system design, and distributed systems. Open source is a big part of my focus too.
+
+```ts
+const sankalp = {
+  name:      "Sankalp Gupta",
+  role:      "Full Stack Developer",
+  location:  "India",
+  languages: ["Python", "TypeScript", "JavaScript", "Go", "Rust", "Java"],
+  focus: [
+    "Production-ready web applications",
+    "Data structures & algorithms",
+    "Open source contributions",
+    "System design & distributed systems",
+  ],
+  learning: ["Cloud Architecture", "Advanced System Design", "Modern Web Technologies"],
+} as const;
 ```
 
 ---
 
-## 📊 GitHub Stats
+<a name="quests"></a>
 
-<div align="center">
+## <img src="assets/icons/quests.webp" width="40" height="40" align="center" alt=""/> CURRENT QUESTS
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sankalpdevtester&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff&rank_icon=github"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpdevtester&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpdevtester&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&sideNums=ffffff&currStreakNum=f59e0b&sideLabels=6366f1&dates=888888" alt="streak" width="49%"/>
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sankalpdevtester&bg_color=0d1117&color=6366f1&line=6366f1&point=f59e0b&area=true&hide_border=true&area_color=6366f120)](https://github.com/sankalpdevtester)
-
-</div>
+| Quest | Objective |
+| :--- | :--- |
+| ![Main quest](https://img.shields.io/badge/MAIN_QUEST-F4C20D?style=flat-square&labelColor=0A0A0A) | Ship production-ready web applications |
+| ![Side quest](https://img.shields.io/badge/SIDE_QUEST-9A9A9A?style=flat-square&labelColor=0A0A0A) | Contribute to open source |
+| ![Side quest](https://img.shields.io/badge/SIDE_QUEST-9A9A9A?style=flat-square&labelColor=0A0A0A) | Level up on data structures & algorithms |
+| ![Side quest](https://img.shields.io/badge/SIDE_QUEST-9A9A9A?style=flat-square&labelColor=0A0A0A) | Go deep on system design & distributed systems |
+| ![Training](https://img.shields.io/badge/TRAINING-E82C2C?style=flat-square&labelColor=0A0A0A) | Cloud Architecture, Advanced System Design, Modern Web Technologies |
 
 ---
 
-## 🧩 LeetCode
+<a name="stack"></a>
 
-<div align="center">
+## <img src="assets/icons/loadout.webp" width="40" height="40" align="center" alt=""/> LOADOUT · TECH STACK
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/q9hZI5XkeT?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=16&width=500)](https://leetcode.com/u/q9hZI5XkeT/)
+**Primary weapons** · core languages<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
 
-</div>
+**Sidearms** · more languages<br/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby"/>
+<img src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white" alt="Elixir"/>
+<img src="https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white" alt="Haskell"/>
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua"/>
+<img src="https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white" alt="Perl"/>
 
-<div align="center">
+**Frontend** · the visuals<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron"/>
 
-| 🎯 Solved | 🔥 Streak | ⭐ Stars | 📦 Repos |
-|:-:|:-:|:-:|:-:|
-| **255** | **0 days** | **12806** | **42** |
+**Engine room** · backend & databases<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white" alt="Rails"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
 
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-
-**Backend & DB**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sankalpdevtester&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/sankalpdevtester)
-
-</div>
+**Gadgets** · DevOps & tools<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
 
 ---
 
-## 📌 Featured Projects
+<a name="projects"></a>
 
-<div align="center">
+## <img src="assets/icons/missions.webp" width="40" height="40" align="center" alt=""/> MISSIONS · FEATURED PROJECTS
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=sankalpdevtester&repo=devops-pulse&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=f59e0b&text_color=ffffff)](https://github.com/sankalpdevtester/devops-pulse)
-&nbsp;
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=sankalpdevtester&repo=code-vault-pro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=f59e0b&text_color=ffffff)](https://github.com/sankalpdevtester/code-vault-pro)
+> **[aether-db](https://github.com/sankalpdevtester/aether-db)** is my deep-dive into distributed systems: a key-value database built from scratch in Go with Raft consensus, write-ahead logging, and horizontal sharding, designed for millions of operations per second.
 
-</div>
+<p align="center">
+  <a href="https://github.com/sankalpdevtester/aether-db"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalpdevtester&repo=aether-db&bg_color=0A0A0A&title_color=F4C20D&text_color=FFFFFF&icon_color=F4C20D&border_color=F4C20D&border_radius=4" alt="aether-db"/></a>
+  <a href="https://github.com/sankalpdevtester/architectural-visualizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalpdevtester&repo=architectural-visualizer&bg_color=0A0A0A&title_color=F4C20D&text_color=FFFFFF&icon_color=F4C20D&border_color=F4C20D&border_radius=4" alt="architectural-visualizer"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/sankalpdevtester/aegis-codefusion-2k26"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalpdevtester&repo=aegis-codefusion-2k26&bg_color=0A0A0A&title_color=F4C20D&text_color=FFFFFF&icon_color=F4C20D&border_color=F4C20D&border_radius=4" alt="aegis-codefusion-2k26"/></a>
+  <a href="https://github.com/sankalpdevtester/code-vault-pro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalpdevtester&repo=code-vault-pro&bg_color=0A0A0A&title_color=F4C20D&text_color=FFFFFF&icon_color=F4C20D&border_color=F4C20D&border_radius=4" alt="code-vault-pro"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/sankalpdevtester/devops-pulse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalpdevtester&repo=devops-pulse&bg_color=0A0A0A&title_color=F4C20D&text_color=FFFFFF&icon_color=F4C20D&border_color=F4C20D&border_radius=4" alt="devops-pulse"/></a>
+  <a href="https://github.com/sankalpdevtester/forge-chain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalpdevtester&repo=forge-chain&bg_color=0A0A0A&title_color=F4C20D&text_color=FFFFFF&icon_color=F4C20D&border_color=F4C20D&border_radius=4" alt="forge-chain"/></a>
+</p>
 
 ---
 
-<div align="center">
+<a name="stats"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+## <img src="assets/icons/scoreboard.webp" width="40" height="40" align="center" alt=""/> SCOREBOARD · GITHUB STATS
 
-<sub>⚡ Auto-updated daily · Last refresh: October 20, 2026</sub>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sankalpdevtester&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=PLAYER%20STATS&bg_color=0A0A0A&title_color=F4C20D&text_color=FFFFFF&icon_color=F4C20D&ring_color=F4C20D&border_color=F4C20D&border_radius=4" alt="GitHub stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpdevtester&layout=compact&langs_count=8&custom_title=TOP%20LANGUAGES&bg_color=0A0A0A&title_color=F4C20D&text_color=FFFFFF&border_color=F4C20D&border_radius=4" alt="Top languages"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sankalpdevtester&theme=dark&background=0A0A0A&ring=F4C20D&fire=F4C20D&currStreakNum=FFFFFF&currStreakLabel=F4C20D&sideNums=FFFFFF&sideLabels=F4C20D&dates=9A9A9A&stroke=F4C20D&border=F4C20D&border_radius=4" alt="GitHub streak"/>
+</p>
+
+<img src="assets/icons/activity.webp" width="34" height="34" align="center" alt=""/> **ACTIVITY LOG** · contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sankalpdevtester/sankalpdevtester/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sankalpdevtester/sankalpdevtester/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sankalpdevtester/sankalpdevtester/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+<a name="achievements"></a>
+
+## <img src="assets/icons/achievements.webp" width="40" height="40" align="center" alt=""/> ACHIEVEMENTS UNLOCKED
+
+| Achievement | How it was earned |
+| :--- | :--- |
+| ![YOLO](https://img.shields.io/badge/ACHIEVEMENT_UNLOCKED-YOLO-F4C20D?style=for-the-badge&labelColor=0A0A0A) | Merged a pull request without a code review |
+| ![Quickdraw](https://img.shields.io/badge/ACHIEVEMENT_UNLOCKED-QUICKDRAW-F4C20D?style=for-the-badge&labelColor=0A0A0A) | Closed an issue or pull request within 5 minutes of opening |
+
+---
+
+<a name="training"></a>
+
+## <img src="assets/icons/training.webp" width="40" height="40" align="center" alt=""/> TRAINING GROUND · PROBLEM SOLVING
+
+Data structures & algorithms are a core focus for me. This is my LeetCode activity.
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/q9hZI5XkeT?theme=dark&ext=heatmap&border=0&radius=6&hide=username,ranking,total-solved-text,total-solved-count,easy-solved-count,medium-solved-count,hard-solved-count&colors=0A0A0A,141414,FFFFFF,9A9A9A,F4C20D,F4C20D,F4C20D,F4C20D" alt="LeetCode activity heatmap"/>
+</p>
+
+---
+
+<a name="connect"></a>
+
+## <img src="assets/icons/connect.webp" width="40" height="40" align="center" alt=""/> JOIN THE LOBBY · CONNECT
+
+<p align="center">
+  <a href="https://github.com/sankalpdevtester"><img src="https://img.shields.io/badge/GitHub-sankalpdevtester-F4C20D?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="GitHub"/></a>
+  <a href="https://discord.com/users/1066378889061998603"><img src="https://img.shields.io/badge/Discord-assassinclub-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0A0A0A" alt="Discord: assassinclub"/></a>
+  <!-- Add your own: LinkedIn, email, portfolio, X/Twitter -->
+</p>
+
+<p align="center">Always happy to talk code, distributed systems, or open source.</p>
+
+---
+
+## <img src="assets/icons/loot.webp" width="40" height="40" align="center" alt=""/> DAILY LOOT DROP
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote"/>
+</p>
+
+<img src="assets/footer.webp" alt="Mission passed. Thanks for visiting! Let's build something amazing together" width="100%"/>
